@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d04f3a98209b5048f90b6ff4095c2386
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gobold Lowplus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70757aef87c23c757981f4daba65fa35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
